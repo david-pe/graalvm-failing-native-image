@@ -1,2 +1,5 @@
 *.class
 *.log
+bazel-*
+.idea
+.ijwb
